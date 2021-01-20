@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>play.png</file>
+        <file>refresh.png</file>
+        <file>blue_icon.ico</file>
+    </qresource>
+</RCC>
